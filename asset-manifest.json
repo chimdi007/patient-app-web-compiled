@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.js": "/prescribengpatientmobileapp/static/js/main.124f8290.js",
+    "static/js/559.21260ebd.js": "/prescribengpatientmobileapp/static/js/559.21260ebd.js",
+    "static/media/FontAwesome.ttf": "/prescribengpatientmobileapp/static/media/FontAwesome.1e59d2330b4c6deb84b3.ttf",
+    "favicon.ico": "/prescribengpatientmobileapp/favicon.ico",
+    "index.html": "/prescribengpatientmobileapp/index.html",
+    "favicon-32.png": "/prescribengpatientmobileapp/favicon-32.png",
+    "favicon-16.png": "/prescribengpatientmobileapp/favicon-16.png",
+    "manifest.json": "/prescribengpatientmobileapp/manifest.json",
+    "serve.json": "/prescribengpatientmobileapp/serve.json",
+    "main.124f8290.js.map": "/prescribengpatientmobileapp/static/js/main.124f8290.js.map",
+    "559.21260ebd.js.map": "/prescribengpatientmobileapp/static/js/559.21260ebd.js.map"
+  },
+  "entrypoints": [
+    "static/js/559.21260ebd.js",
+    "static/js/main.124f8290.js"
+  ]
+}
