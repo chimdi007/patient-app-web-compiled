@@ -5,5 +5,17 @@
   "name": "patientmobileapp",
   "short_name": "patientmobileapp",
   "start_url": "/?utm_source=web_app_manifest",
-  "orientation": "portrait"
+  "orientation": "portrait",
+  "related_applications": [
+    {
+      "platform": "itunes",
+      "id": "com.chimdi007.patientmobileapp"
+    },
+    {
+      "platform": "play",
+      "url": "http://play.google.com/store/apps/details?id=com.chimdi007.patientmobileapp",
+      "id": "com.chimdi007.patientmobileapp"
+    }
+  ],
+  "prefer_related_applications": true
 }
